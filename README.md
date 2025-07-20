@@ -1,2 +1,3 @@
-# nekops.io
-Nekops website
+# Meow
+
+A website for my cats.
